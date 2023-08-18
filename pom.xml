@@ -9,5 +9,7 @@
 </description>
   <modules>
   	<module>single-responsibility</module>
+
+  	<module>open-closed</module>
   </modules>
 </project>
