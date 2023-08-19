@@ -17,5 +17,6 @@
 
 		<module>liskov-substitution</module>
 
+		<module>interface-segregation</module>
 	</modules>
 </project>
