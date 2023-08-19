@@ -1,15 +1,21 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>org.sekhar.solid-priniciples</groupId>
-  <artifactId>solid-priniciples</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
-  <name>solid-priniciples</name>
-  <description>List of solid priniciples	
-</description>
-  <modules>
-  	<module>single-responsibility</module>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.sekhar.solid-priniciples</groupId>
+	<artifactId>solid-priniciples</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>solid-priniciples</name>
+	<description>List of solid priniciples
+	</description>
+	<modules>
+		<module>single-responsibility</module>
 
-  	<module>open-closed</module>
-  </modules>
+		<module>open-closed</module>
+
+
+		<module>liskov-substitution</module>
+
+	</modules>
 </project>
