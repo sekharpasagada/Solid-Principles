@@ -18,5 +18,6 @@
 		<module>liskov-substitution</module>
 
 		<module>interface-segregation</module>
+		<module>dependency-injection</module>
 	</modules>
 </project>
